@@ -1,5 +1,5 @@
-# gametheory2019
-Repository for the game theory mini-project (E1254 - Spring 2019).
+# Opt-agent-net
+Repository for the opt-agent-net project
 
 Title: **Utility functions with compounding returns lead to evolution of co-operation in MAB networks**
 
